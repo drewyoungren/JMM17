@@ -6,4 +6,4 @@
 
 #### January 2017, Atlanta, GA
 
-- [Me & My Gadgets](Gadgets/Presentation)
+- [Me & My Gadgets Presentation](Gadgets/Presentation.slides.html)
