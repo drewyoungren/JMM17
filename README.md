@@ -6,4 +6,5 @@
 
 #### January 2017, Atlanta, GA
 
-- [Me & My Gadgets Presentation](Gadgets/Presentation.slides.html)
+- [Me & My Gadgets Presentation](https://drewyoungren.github.io/JMM17/Gadgets/Presentation.slides.html)
+  - [Source noterbook](https://github.com/drewyoungren/JMM17/blob/master/Gadgets/Presentation.ipynb)
